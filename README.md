@@ -1,11 +1,5 @@
-Operating_System_Lab_Programs
-=============================
-
-My Operating Systems Lab Programs written in Shell script (Bash). Used IDE - Redhat Linux 5 Shell. 
-
-These programs are from "Operating Systems Lab" of B.Tech Computer Science.
-
 Program List:
+=============
 
 1.  ArrAdd – sum of elements of an array.
 
